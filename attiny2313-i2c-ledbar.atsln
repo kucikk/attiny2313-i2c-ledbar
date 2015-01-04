@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "attiny2313-i2c-ledbar", "attiny2313-i2c-ledbar\attiny2313-i2c-ledbar.cppproj", "{375D0B59-E815-4193-AD83-BC06F1DDAF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375D0B59-E815-4193-AD83-BC06F1DDAF4B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{375D0B59-E815-4193-AD83-BC06F1DDAF4B}.Debug|AVR.Build.0 = Debug|AVR
+		{375D0B59-E815-4193-AD83-BC06F1DDAF4B}.Release|AVR.ActiveCfg = Release|AVR
+		{375D0B59-E815-4193-AD83-BC06F1DDAF4B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
